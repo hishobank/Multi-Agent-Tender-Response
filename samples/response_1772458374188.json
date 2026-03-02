@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "question": "Does the platform enforce TLS 1.2+?",
+      "answer": "Yes, the platform enforces TLS 1.2 and TLS 1.3 for all production workloads.",
+      "domain_tag": "Security",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "Are you ISO 27001 certified?",
+      "answer": "Yes we are ISO 27001 certified.",
+      "domain_tag": "Compliance",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "Do you support multi-tenancy?",
+      "answer": "Yes, the platform supports multi-tenant architecture.",
+      "domain_tag": "Architecture",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "What encryption protocols do you use?",
+      "answer": "We use AES-256 for data at rest and TLS 1.3 for data in transit.",
+      "domain_tag": "Security",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "Is the platform SOC 2 certified?",
+      "answer": "Yes we are SOC 2 Type II certified.",
+      "domain_tag": "Compliance",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "Do you offer single sign-on?",
+      "answer": "Yes, we support SAML 2.0 and OIDC for single sign-on.",
+      "domain_tag": "Security",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "What is your data backup strategy?",
+      "answer": "We perform automated daily backups with a retention period of 30 days, ensuring that backups are geo-redundant across regions.",
+      "domain_tag": "Infrastructure",
+      "confidence_level": "Medium",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "Does the platform use AI or machine learning?",
+      "answer": "Yes, the platform uses AI and machine learning for various purposes, including anomaly detection, recommendations, content summarization, drafting, and classification.",
+      "domain_tag": "AI",
+      "confidence_level": "Medium",
+      "historical_alignment_indicator": true,
+      "flags": []
+    },
+    {
+      "question": "What is your pricing model?",
+      "answer": "Our pricing model is based on a subscription model, which includes various tiers depending on the features and services required. For detailed pricing information, please contact our sales team.",
+      "domain_tag": "Pricing",
+      "confidence_level": "Low",
+      "historical_alignment_indicator": false,
+      "flags": [
+        "needs_review"
+      ]
+    },
+    {
+      "question": "Do you support EU data residency?",
+      "answer": "Yes, we support EU data residency.",
+      "domain_tag": "Compliance",
+      "confidence_level": "High",
+      "historical_alignment_indicator": true,
+      "flags": []
+    }
+  ],
+  "summary": {
+    "total_questions_processed": 10,
+    "flagged_count": 1,
+    "flagged_items": [
+      {
+        "question": "What is your pricing model?",
+        "flags": [
+          "needs_review"
+        ]
+      }
+    ],
+    "completion_status": "completed_with_flags"
+  }
+}

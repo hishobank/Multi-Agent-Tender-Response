@@ -1,0 +1,81 @@
+Question,Answer,Domain
+Do you support SSL and TLS?,Yes we support TLS 1.0 through TLS 1.3. We enforce TLS 1.2+ for production.,Security
+What encryption does the platform use?,TLS 1.2 and TLS 1.3 for data in transit.,Security
+Are you ISO 27001 certified?,Yes we are ISO 27001 certified.,Compliance
+Do you support multi-tenancy?,Yes the platform supports multi-tenant architecture.,Architecture
+Is data encrypted in transit?,All data in transit uses TLS. We enforce TLS 1.2 minimum.,Security
+Does the platform enforce TLS 1.2 or higher?,Yes we enforce TLS 1.2 and TLS 1.3 for all production workloads.,Security
+Do you support role-based access control?,Yes we have RBAC with configurable roles and permissions.,Security
+Is the platform SOC 2 Type II certified?,Yes we are SOC 2 Type II certified.,Compliance
+How do you handle data backup?,We perform automated daily backups with 30-day retention.,Infrastructure
+Do you offer an API?,Yes we provide REST and GraphQL APIs for integration.,Architecture
+What regions do you support?,We support deployment in EU and US regions.,Infrastructure
+Do you use machine learning?,Yes we use ML for anomaly detection and recommendations.,AI
+Is pricing based on usage?,Yes we offer usage-based and fixed-term pricing.,Pricing
+Do you support single sign-on?,Yes we support SAML 2.0 and OIDC for SSO.,Security
+What is your uptime SLA?,We offer 99.9% uptime SLA for production.,Infrastructure
+Do you store data in the EU?,Yes we have EU data residency options.,Compliance
+Are you GDPR compliant?,Yes we are GDPR compliant and support DPA.,Compliance
+Do you support custom branding?,Yes white-label and custom branding are available.,Architecture
+What database do you use?,We use PostgreSQL and Redis for our data layer.,Infrastructure
+Do you have a mobile app?,Yes we have native iOS and Android apps.,Architecture
+How do you handle PII?,We encrypt PII at rest and in transit; access is audit logged.,Security
+Do you support webhooks?,Yes webhooks are available for all key events.,Architecture
+What is your incident response process?,We have a 24/7 incident response team with defined SLAs.,Infrastructure
+Do you use AI for customer support?,Yes we use AI chatbots for first-line support.,AI
+Is there a free tier?,We offer a 14-day free trial; no free tier beyond that.,Pricing
+Do you support audit logs?,Yes comprehensive audit logs are available.,Compliance
+What cloud providers do you support?,We support AWS and Azure; GCP is in roadmap.,Infrastructure
+Do you offer on-premise deployment?,No we are cloud-only; we offer private cloud options.,Infrastructure
+How is data isolated between tenants?,Logical isolation with separate schemas; encryption at rest.,Architecture
+Do you support MFA?,Yes MFA is supported and can be enforced.,Security
+What is your data retention policy?,Configurable 1-7 years; default 3 years.,Compliance
+Do you use generative AI?,Yes we use GenAI for content summarisation and drafting.,AI
+Is there a minimum commitment?,Annual contracts have discounts; monthly is available.,Pricing
+Do you support SCIM?,Yes we support SCIM for user provisioning.,Architecture
+What certifications do you have?,ISO 27001 SOC 2 Type II and GDPR compliance.,Compliance
+Do you encrypt data at rest?,Yes AES-256 encryption for data at rest.,Security
+Can we export our data?,Yes full data export in JSON and CSV formats.,Architecture
+What is your RTO and RPO?,RTO 4 hours RPO 1 hour for production.,Infrastructure
+Do you use large language models?,Yes we use LLMs for document analysis features.,AI
+Is pricing transparent?,Yes pricing is published; enterprise can negotiate.,Pricing
+Do you support IP allowlisting?,Yes IP allowlisting is available for enterprise.,Security
+How do you handle key management?,Keys are managed in HSM; we support BYOK.,Security
+Do you have a sandbox environment?,Yes sandbox is included for all plans.,Architecture
+What is your support model?,24/7 support for enterprise; business hours for others.,Infrastructure
+Do you use reinforcement learning?,No we use supervised learning and transformers.,AI
+Are there volume discounts?,Yes we offer volume discounts for large deployments.,Pricing
+Do you support data residency?,Yes we support EU and US data residency.,Compliance
+What is your deployment model?,SaaS multi-tenant; private single-tenant available.,Infrastructure
+Do you use computer vision?,Yes we use CV for document processing.,AI
+Is there an implementation fee?,One-time implementation fee for enterprise setups.,Pricing
+Do you support B2B integrations?,Yes we integrate with CRM ERP and ticketing systems.,Architecture
+What encryption standard do you use?,AES-256 for at rest; TLS 1.3 for in transit.,Security
+Do you have a disaster recovery plan?,Yes we have documented DR with regular testing.,Infrastructure
+Do you use natural language processing?,Yes NLP powers our search and classification.,AI
+Can we run our own ML models?,Yes we support custom model upload for advanced users.,AI
+What is included in the base plan?,Core features up to 10 users; see pricing page.,Pricing
+Do you support custom roles?,Yes admins can define custom roles and permissions.,Architecture
+Is PCI DSS required for your platform?,We are PCI DSS compliant for payment handling.,Compliance
+Do you support VPN access?,Yes we support VPN and dedicated connections.,Infrastructure
+What AI capabilities do you offer?,Summarisation classification extraction and chat.,AI
+Is there a proof of concept option?,Yes we offer a 30-day POC for enterprise.,Pricing
+Do you log security events?,Yes all security events are logged and monitored.,Security
+How do you handle secrets?,Secrets in vault; rotation supported.,Security
+Do you support hybrid deployment?,We support hybrid with on-prem connectors.,Infrastructure
+What ML frameworks do you support?,We support PyTorch and TensorFlow models.,AI
+Do you offer dedicated support?,Yes dedicated CSM for enterprise customers.,Pricing
+Is the platform FedRAMP authorised?,FedRAMP is in progress; not yet authorised.,Compliance
+Do you support LDAP?,Yes LDAP and Active Directory integration available.,Architecture
+What monitoring do you offer?,APM logs metrics and alerting included.,Infrastructure
+Do you use transfer learning?,Yes we use transfer learning for domain adaptation.,AI
+Is there a startup program?,Yes we have a startup discount program.,Pricing
+Do you support data masking?,Yes PII masking is available for non-prod.,Security
+What is your change management process?,Change advisory board for major changes; standard change process.,Infrastructure
+Do you offer AI training?,Yes we offer training for custom model fine-tuning.,AI
+Can we get a custom quote?,Yes contact sales for custom enterprise quotes.,Pricing
+Do you have penetration testing?,Yes annual pen tests by third party.,Security
+What backup locations do you use?,Backups are geo-redundant across regions.,Infrastructure
+Do you explain AI decisions?,Yes we provide explainability for model outputs.,AI
+Is there an overage fee?,Overage fees apply above contracted limits.,Pricing
+Do you support zero trust?,Yes we implement zero trust architecture.,Security
